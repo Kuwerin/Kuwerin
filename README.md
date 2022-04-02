@@ -20,8 +20,7 @@ Property | Data
 
 ![Kuwerin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwerin&theme=radical&layout=compact)
 
-### Contacts
-
+### Contacts:
 Social Network| Profile
 --- | --- 
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-3776AB?style=flat&logo=Telegram&logoColor=white) | [@kuwerin](https://t.me/kuwerin)
