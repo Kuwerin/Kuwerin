@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/golang-1.16-informational"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-3.9-yellow"></a>
+    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/golang-1.18-informational"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-3.10-yellow"></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+to+my+profile!;I+am+Kuverin+Simon;I'm+a+Go/Python+web+developer)](https://git.io/typing-svg)
