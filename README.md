@@ -9,5 +9,5 @@ Property | Data
 --- | --- 
 **Language**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
 **IDE**  | ![NeoVIM Badge](https://img.shields.io/badge/NeoVim-v0.5.1-informational.svg) 
-**Domain Knownledge**  | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3AKuwerin&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AKuwerin&type=Repositories) [![E-Commerce Badge](https://img.shields.io/badge/-E-Commerce-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3AKuwerin&type=Repositories)
+**Domain Knownledge**  | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3AKuwerin&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AKuwerin&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20thinds-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
 
