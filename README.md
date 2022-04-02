@@ -18,4 +18,4 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 ![Kuwerin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kuwerin&hide_border=true&theme=redical)
 
-[Kuwerin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwerin&theme=radical&layout=compact)
+![Kuwerin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwerin&theme=radical&layout=compact)
