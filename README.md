@@ -13,3 +13,7 @@ Property | Data
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Kuwerin/Kuwerin) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Kuwerin/Kuwerin) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Kuwerin/Kuwerin) [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-2088FF?style=flat&logo=Gitlab&logoColor=white)](https://github.com/Kuwerin/Kuwerin)
 **OS**  | ![MacOS/OSX Badge](https://img.shields.io/badge/-MacOS/OSX-2088FF?style=flat&logo=MacOS&logoColor=white) ![Debian Badge](https://img.shields.io/badge/-Debian-2088FF?style=flat&logo=Debian&logoColor=white)
 **Databases**  | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2088FF?style=flat&logo=Postgresql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-2088FF?style=flat&logo=MongoDB&logoColor=white) ![RabbitMQ Badge](https://img.shields.io/badge/-Rabbitmq-2088FF?style=flat&logo=Rabbitmq&logoColor=white) ![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-2088FF?style=flat&logo=elasticsearch&logoColor=white)
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kuwerin&hide_border=true&theme=redical)
