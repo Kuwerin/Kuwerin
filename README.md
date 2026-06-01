@@ -52,10 +52,3 @@ The task for information security competition aka CTF(capture the flag). There's
 ---
 
 ![Kuwerin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwerin&theme=radical&layout=compact)
-
-### Contacts:
-Social Network| Profile
---- | --- 
-![Telegram Badge](https://img.shields.io/badge/-Telegram-3776AB?style=flat&logo=Telegram&logoColor=white) | [@kuwerin](https://t.me/kuwerin)
-![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-3776AB?style=flat&logo=linkedin&logoColor=white) | [Simon Kuverin](https://www.linkedin.com/in/simon-kuverin-403820217/)
-![GmailBadge](https://img.shields.io/badge/-Gmail-3776AB?style=flat&logo=gmail&logoColor=white) | [kuwerin@gmail.com](mailto:kuwerin@gmail.com)
